@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly Stylized Sniper Gun
+* source:	https://sketchfab.com/3d-models/low-poly-stylized-sniper-gun-f122f26db82841399f5db24e10246596
+* author:	Zuhaib Khoso (https://sketchfab.com/zuhaibkhoso)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
