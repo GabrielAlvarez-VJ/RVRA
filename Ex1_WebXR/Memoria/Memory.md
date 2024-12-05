@@ -60,13 +60,12 @@ El juego termina cuando se eliminan todos los objetivos (victoria) o cuando un T
 - RONDA 2
 ![Gameplay de la ronda 2](images/gameplay_round2.jpg)
 
-### URL para el Acceso al Juego
-[Aquí se incluiría la URL donde se puede jugar al videojuego]
+### URL
+[Pulsa aquí para acceder al juego](https://gabrielalvarez-vj.github.io/RVRA/)
 
 ## Conclusiones
 El desarrollo de este videojuego ha permitido explorar las capacidades de A-Frame para crear experiencias 3D interactivas en la web. Se han implementado conceptos como:
 
-- Creación de escenas 3D en el navegador
 - Manejo de modelos 3D y texturas
 - Implementación de lógica de juego con JavaScript
 - Creación de animaciones y movimientos en el espacio 3D
